@@ -5,6 +5,7 @@ import org.joda.time.DateTime;
 public class Message {
     private String content;
     private DateTime date;
+    private User lol;
     private User author;
 
     public String getContent() {

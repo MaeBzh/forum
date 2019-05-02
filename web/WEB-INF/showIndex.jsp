@@ -12,8 +12,11 @@
     <title>Super Forum</title>
 </head>
 <body>
-    <c:forEach var="item" items="${categorie}" >
-        <a><c:out value="${item}" /></a>
-    </c:forEach>
+    <p>cc</p>
+<%--    <table>--%>
+<%--    <c:forEach var="item" items="${categorie}" >--%>
+<%--        <tbody><a><c:out value="${item}" /></a></tbody>--%>
+<%--    </c:forEach>--%>
+<%--    </table>--%>
 </body>
 </html>
